@@ -1,5 +1,5 @@
 
-<h1 align="center"> Gold Stock Trend Analysis and Prediction </h1>  
+<h1 align="center"> Gold Stock Trend Analysis and Forecasting </h1>  
 
 Gold has long been a cornerstone of financial markets, with its prices reflecting global economic health, investor sentiment, and market trends. However, understanding its behavior and accurately forecasting its movement remains a complex challenge for analysts, researchers, and traders. This project tackles these challenges by leveraging a rich dataset of daily gold prices and advanced analytical techniques to extract insights and create predictive models that aid decision-making.
 
